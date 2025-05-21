@@ -13,6 +13,21 @@ h2{
   text-underline-offset: 4px;
 }
 
+p{
+  color: #555;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  text-align: justify;
+  font-family: 'Georgia', serif;
+  font-weight: normal;
+  text-transform: none;
+  letter-spacing: normal;
+  width: 80%;
+  margin: 1.5rem auto;
+  padding: 10px;
+}
+
 
 .nav{
   display: flex;
