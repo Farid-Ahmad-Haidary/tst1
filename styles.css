@@ -62,3 +62,23 @@ p{
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
+
+section{
+  background-color: #f8f9fa;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f9fa;
+  color: #555;
+  font-size: 1rem;
+  font-family: 'Arial', sans-serif;
+  font-weight: normal;
+  text-transform: none;
+  letter-spacing: normal;
+}
